@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419694049030",
+    "project_id": "music-firebase-11b5e",
+    "storage_bucket": "music-firebase-11b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419694049030:android:248079b98848e33fbc5087",
+        "android_client_info": {
+          "package_name": "com.vijay.musicfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw6JMjarnESuaINYEEoLIaEttk4ZjwXBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
